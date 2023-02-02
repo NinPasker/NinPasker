@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NinPasker
 - 👀 I’m interested in technology, basketball, learning.
-- 🌱 I’m currently learning at Juno College and enrolled in their Immersive Web Development Bootcamp.
+- 🌱 Graduated from JunoCollege's Immersive Bootcamp for Web Development March 2023.
 - 💞️ I’m looking to collaborate on everything and anything, I love to learn.
 - 📫 How to reach me: 
 
